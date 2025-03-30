@@ -1,0 +1,57 @@
+{
+  "general": {
+    "error": "❌ Terjadi kesalahan saat memproses permintaan Anda.",
+    "noPermission": "❌ Kamu tidak memiliki izin untuk melakukan ini!",
+    "success": "✅ Berhasil!"
+  },
+  "verification": {
+    "alreadyVerified": "✅ Kamu sudah terverifikasi!",
+    "verificationSuccess": "✅ Kamu telah terverifikasi dan mendapatkan akses ke server!"
+  },
+  "voice": {
+    "notTempVoice": "❌ Channel ini bukan channel voice temporary!",
+    "notOwner": "❌ Kamu bukan pemilik channel ini!",
+    "musicBotAlreadyAdded": "❌ Bot musik sudah ditambahkan ke channel ini!",
+    "musicBotNotAdded": "❌ Bot musik belum ditambahkan ke channel ini!",
+    "musicBotAddSuccess": "✅ Bot musik telah ditambahkan ke channel ini!",
+    "musicBotRemoveSuccess": "✅ Bot musik telah dihapus dari channel ini!",
+    "alreadyOwner": "✅ Kamu sudah menjadi pemilik channel ini!",
+    "takeOverSuccess": "✅ Kamu telah mengambil alih kepemilikan channel ini!",
+    "ownerReturnSuccess": "✅ Kepemilikan channel telah kembali kepadamu!",
+    "ownerNotLeftChannel": "❌ Pemilik voice masih berada di server! Tunggu hingga pemilik meninggalkan server.",
+    "ownerStillInChannel": "❌ Pemilik masih berada di voice channel ini!",
+    "ownerLeftTooRecent": "❌ Pemilik channel baru meninggalkan voice! Silakan tunggu {timeRemaining} lagi sebelum mengambil alih.",
+    "channelEmpty": "❌ Channel voice kosong!"
+  },
+  "subscription": {
+    "roleNotFound": "❌ Role tidak ditemukan!",
+    "subscribeSuccess": "✅ Kamu telah subscribe ke channel ini!",
+    "unsubscribeSuccess": "✅ Kamu telah berhenti subscribe ke channel ini!"
+  },
+  "customRoles": {
+    "invalidColor": "❌ Warna tidak valid!",
+    "roleNotFound": "❌ Role warna tidak ditemukan!",
+    "colorRemoved": "✅ Warna {color} telah dihapus dari namamu!",
+    "colorChanged": "✅ Warna namamu telah diubah menjadi {color}!"
+  },
+  "gameRoles": {
+    "noGamesSelected": "❌ Tidak ada game yang dipilih!",
+    "noGameRoles": "❌ Kamu tidak memiliki role game apapun!",
+    "rolesUpdated": "✅ Role game telah diperbarui! Ditambahkan: {added}, Dihapus: {removed}",
+    "rolesRemoved": "✅ Berhasil menghapus {count} role game!"
+  },
+  "tickets": {
+    "alreadyHasTicket": "❌ Kamu sudah memiliki tiket aktif! Silakan gunakan {channel}.",
+    "notTicketChannel": "❌ Channel ini bukan tiket!",
+    "ticketAlreadyClosed": "❌ Tiket ini sudah ditutup!",
+    "ticketNotClosed": "❌ Tiket ini tidak dalam status tertutup!",
+    "noPermissionTicket": "❌ Kamu tidak memiliki izin untuk menghapus tiket!",
+    "ticketCreated": "✅ Tiket kamu telah dibuat! {channel}",
+    "ticketClosed": "✅ Tiket telah ditutup oleh {user}.",
+    "ticketReopened": "✅ Tiket telah dibuka kembali oleh {user}.",
+    "ticketArchiving": "✅ Tiket sedang diarsipkan dan akan dihapus dalam beberapa detik...",
+    "ticketDeleteCancelled": "✅ Penghapusan tiket dibatalkan.",
+    "transcriptNotFound": "❌ File transkrip tidak ditemukan!",
+    "transcriptLink": "✅ Transkrip tiket: {url}"
+  }
+} 

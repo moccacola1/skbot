@@ -1,0 +1,89 @@
+{
+  "bot": {
+    "token": "process.env.TOKEN"
+  },
+  "database": {
+    "mongoURI": "process.env.MONGODB_URI"
+  },
+  "voiceChannels": {
+    "firstVoice": "process.env.FIRST_VOICE_ID",
+    "secondVoice": "process.env.SECOND_VOICE_ID",
+    "permissionCategory": "process.env.PERMISSION_CATEGORY_ID"
+  },
+  "roles": {
+    "mediaBot": "process.env.MEDIA_BOT_ROLE_ID",
+    "verify": "process.env.VERIFY_ROLE_ID",
+    "admin": "process.env.ADMIN_ROLE_ID",
+    "colors": {
+      "blue": "process.env.BLUE_ROLE_ID",
+      "green": "process.env.GREEN_ROLE_ID",
+      "orange": "process.env.ORANGE_ROLE_ID",
+      "yellow": "process.env.YELLOW_ROLE_ID",
+      "purple": "process.env.PURPLE_ROLE_ID"
+    },
+    "subscribe": {
+      "fins": "process.env.FINS_ROLE_ID",
+      "lawe": "process.env.LAWE_ROLE_ID",
+      "liz": "process.env.LIZ_ROLE_ID",
+      "navv": "process.env.NAVV_ROLE_ID",
+      "yhsych": "process.env.YHSYCH_ROLE_ID"
+    },
+    "games": {
+      "apex": "process.env.APEX_ROLE_ID",
+      "arenaOfValor": "process.env.ARENA_OF_VALOR_ROLE_ID",
+      "crystalRealms": "process.env.CRYSTAL_REALMS_ROLE_ID",
+      "dragonNest": "process.env.DRAGON_NEST_ROLE_ID",
+      "genshinImpact": "process.env.GENSHIN_IMPACT_ROLE_ID",
+      "goldGlory": "process.env.GOLD_GLORY_ROLE_ID",
+      "gta": "process.env.GTA_ROLE_ID",
+      "growtopia": "process.env.GROWTOPIA_ROLE_ID",
+      "honkai": "process.env.HONKAI_ROLE_ID",
+      "honorKings": "process.env.HONOR_KINGS_ROLE_ID",
+      "minecraft": "process.env.MINECRAFT_ROLE_ID",
+      "mobileLegends": "process.env.MOBILE_LEGENDS_ROLE_ID",
+      "onceHuman": "process.env.ONCE_HUMAN_ROLE_ID",
+      "pokemonUnite": "process.env.POKEMON_UNITE_ROLE_ID",
+      "roblox": "process.env.ROBLOX_ROLE_ID",
+      "truckSim": "process.env.TRUCK_SIM_ROLE_ID",
+      "valorant": "process.env.VALORANT_ROLE_ID",
+      "wutheringWaves": "process.env.WUTHERING_WAVES_ROLE_ID",
+      "zenlessZoneZero": "process.env.ZENLESS_ZONE_ZERO_ROLE_ID"
+    }
+  },
+  "channels": {
+    "welcome": "process.env.WELCOME_CHANNEL_ID",
+    "serverLink": "process.env.SERVER_LINK_CHANNEL_ID",
+    "subscribe": "process.env.SUBSCRIBE_CHANNEL_ID",
+    "customRole": "process.env.CUSTOM_ROLE_CHANNEL_ID",
+    "gamesRole": "process.env.GAMES_ROLE_CHANNEL_ID",
+    "ticket": "process.env.TICKET_CHANNEL_ID",
+    "archive": "process.env.ARCHIVE_CHANNEL_ID",
+    "ticketCategory": "process.env.TICKET_CATEGORY_ID"
+  },
+  "presence": {
+    "status": "dnd",
+    "activities": [
+      {
+        "type": "CUSTOM",
+        "name": "Made by Lawe Rejas"
+      },
+      {
+        "type": "PLAYING",
+        "name": "MiSide"
+      },
+      {
+        "type": "WATCHING",
+        "name": "Sekuad Kocak"
+      }
+    ],
+    "interval": 7000
+  },
+  "voice": {
+    "bitrate": 384000,
+    "ownerTimeout": 7200000
+  },
+  "ticketSettings": {
+    "archiveTimeout": 86400000,
+    "categoryId": "process.env.TICKET_CATEGORY_ID"
+  }
+} 

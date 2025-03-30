@@ -1,0 +1,2 @@
+# This file ensures the transcripts directory is included in git
+# Generated transcript files will be ignored according to .gitignore 

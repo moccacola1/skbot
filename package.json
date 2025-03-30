@@ -1,0 +1,43 @@
+{
+  "name": "cappie-bot",
+  "version": "1.0.0",
+  "description": "Discord bot multifungsi untuk meningkatkan pengalaman komunitas Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "lint": "eslint ."
+  },
+  "author": "Lawe Rejas",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "html-to-text": "^9.0.5",
+    "html2canvas": "^1.4.1",
+    "jsdom": "^22.1.0",
+    "mongoose": "^8.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.53.0",
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/cappie-bot"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "join-to-create",
+    "ticket-system",
+    "role-management"
+  ]
+} 

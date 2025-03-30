@@ -1,0 +1,532 @@
+{
+  "music_bot_invite": {
+    "embeds": [
+      {
+        "color": 16429731,
+        "description": "Mau Nambahin Bot Musik?",
+        "thumbnail": {
+          "url": "https://media.tenor.com/Yg9cr-N09a4AAAAM/music.gif"
+        }
+      }
+    ],
+    "components": [
+      {
+        "type": 1,
+        "components": [
+          {
+            "type": 2,
+            "style": 1,
+            "label": "Tambahkan Bot Musik",
+            "custom_id": "add_music_bot"
+          },
+          {
+            "type": 2,
+            "style": 2,
+            "label": "Ambil Alih Voice",
+            "custom_id": "take_over_voice"
+          }
+        ]
+      }
+    ]
+  },
+  "music_bot_already": {
+    "embeds": [
+      {
+        "color": 16429731,
+        "description": "Bot sudah bisa masuk channel ini!\nMau hapus izin bot?",
+        "thumbnail": {
+          "url": "https://media.tenor.com/Yg9cr-N09a4AAAAM/music.gif"
+        }
+      }
+    ],
+    "components": [
+      {
+        "type": 1,
+        "components": [
+          {
+            "type": 2,
+            "style": 4,
+            "label": "Hapus Bot Musik",
+            "custom_id": "remove_music_bot"
+          },
+          {
+            "type": 2,
+            "style": 2,
+            "label": "Ambil Alih Voice",
+            "custom_id": "take_over_voice"
+          }
+        ]
+      }
+    ]
+  },
+  "welcome": {
+    "content": null,
+    "embeds": [
+      {
+        "author": {},
+        "title": "Selamat Datang!",
+        "description": "Dengan kedatanganmu kesini, sudah jelas bahwa kamu punya maksud & tujuan berdasarkan _link_ yang di _share_ dari salah satu anggota server ini.",
+        "thumbnail": {
+          "url": "https://media.tenor.com/yCFHzEvKa9MAAAAj/hello.gif"
+        },
+        "fields": [
+          {
+            "name": "Ngga ada aturan bertele yang perlu diterapin kok!",
+            "value": ">>>  Cukup patuhi _[guidlines discord](https://discord.com/guidelines)_, & Jagalah perasaan orang lain, layaknya kamu ngejaga martabatmu sendiri!",
+            "inline": false
+          },
+          {
+            "name": " ",
+            "value": "**Kita sangat _welcome_**, nerima siapapun yang mau _join_ kesini.\n_Enjoy your conversation_, _then_!",
+            "inline": false
+          },
+          {
+            "name": " ",
+            "value": "_Setelah tombol di bawah kamu tekan, kami asumsikan bahwa kamu setuju & siap menerima konsekuensi dari admin._",
+            "inline": false
+          }
+        ],
+        "color": 16429731
+      }
+    ],
+    "components": [
+      {
+        "type": 1,
+        "components": [
+          {
+            "type": 2,
+            "style": 3,
+            "label": "Setuju",
+            "custom_id": "btn-verify"
+          }
+        ]
+      }
+    ]
+  },
+  "server_link": {
+    "content": null,
+    "embeds": [
+      {
+        "description": "_**Permanent link invitation**_. Suruh langsung temenmu buat ambil role di server ini. Biar ngga ke _kick_!\nhttps://s.id/sekuadkocak",
+        "title": "Server Link",
+        "thumbnail": {
+          "url": "https://media.tenor.com/PM6Wu5BAgkUAAAAj/ok-cat.gif"
+        },
+        "color": 16429731,
+        "fields": null
+      }
+    ],
+    "components": null
+  },
+  "subscribe": {
+    "content": null,
+    "embeds": [
+      {
+        "author": {},
+        "description": "Dapetin terus informasi terbaru streamer favoritmu dari YouTube!",
+        "thumbnail": {
+          "url": "https://media.tenor.com/01fHdcawbZMAAAAi/youtube-new-post.gif"
+        },
+        "color": 16429731,
+        "fields": null,
+        "title": "Subscribed"
+      }
+    ],
+    "components": [
+      {
+        "type": 1,
+        "components": [
+          {
+            "type": 2,
+            "style": 3,
+            "label": "Fins Mine",
+            "custom_id": "subs-fins"
+          },
+          {
+            "type": 2,
+            "style": 3,
+            "label": "Lawe Rejas",
+            "custom_id": "subs-lawe"
+          },
+          {
+            "type": 2,
+            "style": 3,
+            "label": "Majuphi Liz",
+            "custom_id": "subs-liz"
+          },
+          {
+            "type": 2,
+            "style": 3,
+            "label": "Navv MF",
+            "custom_id": "subs-navv"
+          },
+          {
+            "type": 2,
+            "style": 3,
+            "label": "Yhsych Ch",
+            "custom_id": "subs-yhsych"
+          }
+        ]
+      }
+    ]
+  },
+  "custom_role": {
+    "content": null,
+    "embeds": [
+      {
+        "description": "Percantik namamu dengan warna yang tersedia. Kamu juga bisa *request custom role*mu sendiri lewat _channel_ <#1215235050967277568>.",
+        "thumbnail": {
+          "url": "https://media.tenor.com/tVkrpPz3l_8AAAAj/spinning.gif"
+        },
+        "title": "Custom Role",
+        "color": 16429731,
+        "fields": null
+      }
+    ],
+    "components": [
+      {
+        "type": 1,
+        "components": [
+          {
+            "type": 2,
+            "style": 1,
+            "label": "Biru",
+            "custom_id": "btn-biru"
+          },
+          {
+            "type": 2,
+            "style": 1,
+            "label": "Hijau",
+            "custom_id": "btn-hijau"
+          },
+          {
+            "type": 2,
+            "style": 1,
+            "label": "Jingga",
+            "custom_id": "btn-jingga"
+          },
+          {
+            "type": 2,
+            "style": 1,
+            "label": "Kuning",
+            "custom_id": "btn-kuning"
+          },
+          {
+            "type": 2,
+            "style": 1,
+            "label": "Ungu",
+            "custom_id": "btn-ungu"
+          }
+        ]
+      }
+    ]
+  },
+  "games_role": {
+    "content": null,
+    "embeds": [
+      {
+        "color": 16429731,
+        "thumbnail": {
+          "url": "https://64.media.tumblr.com/59f4b51c905af02d6981e7fa03cf5919/tumblr_ms9c3qXte81rt6u7do1_r1_400.gif"
+        },
+        "title": "Games",
+        "description": "Role ini dipake buat nge*tag* kamu sewaktu nyari slot mabar & ngebuka beberapa _channel_ yang terkunci:\n> **_Games Chat, Redeem Code, Leaks, dsb._**",
+        "fields": [
+          {
+            "name": " ",
+            "value": "_Opsi yang dipilih akan tetap terlihat sampai discord dimulai ulang. Untuk menghindari kebingungan sewaktu salah pilih role.\nJadi, tinggalin aja kalau udah milih._",
+            "inline": false
+          }
+        ]
+      }
+    ],
+    "components": [
+      {
+        "type": 1,
+        "components": [
+          {
+            "type": 3,
+            "custom_id": "games_select",
+            "options": [
+              {
+                "label": "APEX LEGENDS",
+                "value": "Apex Legends",
+                "default": false,
+                "description": "Respawn Entertainment, Panic Button Games, Respawn"
+              },
+              {
+                "label": "ARENA OF VALOR",
+                "value": "Arena of Valor",
+                "default": false,
+                "description": "TiMi Studio Group, Tencent Games, Proxima Beta Pte. Limited"
+              },
+              {
+                "label": "CRYSTAL REALMS",
+                "description": "Marcomeijer",
+                "value": "Crystal Realms",
+                "default": false
+              },
+              {
+                "label": "DRAGON NEST",
+                "value": "Dragon Nest",
+                "default": false,
+                "description": "Eyedentity Games"
+              },
+              {
+                "label": "GENSHIN IMPACT",
+                "value": "Genshin Impact",
+                "default": false,
+                "description": "Mihoyo, Shanghai Miha Touring Film Technology Co., Ltd."
+              },
+              {
+                "label": "GOLD & GLORY",
+                "description": "Space Wedgie, LLC",
+                "value": "Gold & Glory",
+                "default": false
+              },
+              {
+                "label": "GRAND THEFT AUTO V",
+                "value": "Grand Theft Auto V",
+                "default": false,
+                "description": "Rockstar Games, Rockstar North"
+              },
+              {
+                "label": "GROWTOPIA",
+                "description": "Ubisoft Abu Dhabi, Ubisoft Pune",
+                "value": "Growtopia",
+                "default": false
+              },
+              {
+                "label": "HONKAI: STAR RAIL",
+                "value": "Honkai: Star Rail",
+                "default": false,
+                "description": "Mihoyo, COGNOSPHERE PTE. LTD."
+              },
+              {
+                "label": "HONOR OF KINGS",
+                "value": "Honor of Kings",
+                "default": false,
+                "description": "TiMi Studio Group"
+              },
+              {
+                "label": "MINECRAFT",
+                "value": "Minecraft",
+                "default": false,
+                "description": "Mojang, Other Ocean Interactive, Xbox Game Studios, 4J Studios, Other Ocean Group"
+              },
+              {
+                "label": "MOBILE LEGENDS: BANG BANG",
+                "value": "Mobile Legends",
+                "default": false,
+                "description": "Moonton"
+              },
+              {
+                "label": "ONCE HUMAN",
+                "description": "NetEase, Exptional Global, Starry Studio",
+                "value": "Once Human",
+                "default": false
+              },
+              {
+                "label": "POKÉMON UNITE",
+                "value": "Pokémon Unite",
+                "default": false,
+                "description": "TiMi Studio Group"
+              },
+              {
+                "label": "ROBLOX",
+                "value": "Roblox",
+                "default": false,
+                "description": "Roblox Corporation"
+              },
+              {
+                "label": "TRUCK SIMULATOR [AMERICAN/EURO]",
+                "value": "ATS/ETS",
+                "default": false,
+                "description": "SCS Software, Aidem Media, Atomic Fabrik, BoomHits, PixelMob"
+              },
+              {
+                "label": "VALORANT",
+                "value": "Valorant",
+                "default": false,
+                "description": "Riot Games"
+              },
+              {
+                "label": "WUTHERING WAVES",
+                "value": "Wuthering Waves",
+                "default": false,
+                "description": "Kuro Games, Kuro Game Studio"
+              },
+              {
+                "label": "ZENLESS ZONE ZERO",
+                "value": "Zenless Zone Zero",
+                "default": false,
+                "description": "Mihoyo, Shanghai Miha Touring Film Technology Co., Ltd."
+              }
+            ],
+            "placeholder": "Pilih satu atau beberapa",
+            "min_values": 0,
+            "max_values": 19
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "components": [
+          {
+            "type": 2,
+            "style": 4,
+            "label": "Hapus Semua",
+            "custom_id": "btn-remove-all"
+          }
+        ]
+      }
+    ]
+  },
+  "ticket": {
+    "content": null,
+    "embeds": [
+      {
+        "color": 16429731,
+        "thumbnail": {
+          "url": "https://cdn-icons-gif.flaticon.com/11195/11195733.gif"
+        },
+        "title": "Tiket Support",
+        "description": "Gunakan sistem tiket ini kalau kamu punya keinginan, pertanyaan, keluhan, atau keraguan di Sekuad Kocak. Channel pribadi akan dibuat beserta staff didalamnya setelah kamu menekan tombol dibawah.\nCantumkan argumen-mu dan kami akan membantu membantu masalah-mu."
+      }
+    ],
+    "components": [
+      {
+        "type": 1,
+        "components": [
+          {
+            "type": 2,
+            "style": 1,
+            "label": "Buat Antrian",
+            "custom_id": "create-tickets"
+          }
+        ]
+      }
+    ]
+  },
+  "ticket_opened": {
+    "embeds": [
+      {
+        "color": 16429731,
+        "description": "Hi {user}\n\nCantumkan arugmen-mu selagi menunggu staff menjawabnya.\nAtau tekan tombol dibawah untuk menutup tiket."
+      }
+    ],
+    "components": [
+      {
+        "type": 1,
+        "components": [
+          {
+            "type": 2,
+            "style": 4,
+            "label": "Tutup Obrolan",
+            "custom_id": "close-ticket"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "components": []
+      }
+    ]
+  },
+  "ticket_closed": {
+    "embeds": [
+      {
+        "color": 16429731,
+        "description": "Obrolan ini ditutup sementara oleh {user}"
+      }
+    ],
+    "components": [
+      {
+        "type": 1,
+        "components": [
+          {
+            "type": 2,
+            "style": 3,
+            "label": "Buka Obrolan",
+            "custom_id": "open-ticket"
+          },
+          {
+            "type": 2,
+            "style": 2,
+            "label": "Hapus",
+            "custom_id": "delete-ticket"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "components": []
+      }
+    ]
+  },
+  "ticket_delete_confirm": {
+    "embeds": [
+      {
+        "color": 16429731,
+        "description": "Yakin ingin mengapus antrian ini?"
+      }
+    ],
+    "components": [
+      {
+        "type": 1,
+        "components": [
+          {
+            "type": 2,
+            "style": 4,
+            "label": "Ya",
+            "custom_id": "confirm-delete"
+          },
+          {
+            "type": 2,
+            "style": 3,
+            "label": "Tidak",
+            "custom_id": "cancel-delete"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "components": []
+      }
+    ]
+  },
+  "ticket_transcript": {
+    "embeds": [
+      {
+        "color": 16429731,
+        "author": {
+          "name": "{user}",
+          "icon_url": "{avatar}"
+        },
+        "fields": [
+          {
+            "name": "Pemilik Antrian",
+            "value": "@{user}",
+            "inline": true
+          },
+          {
+            "name": "Nama Channel",
+            "value": "{channel}",
+            "inline": true
+          },
+          {
+            "name": "Peserta {count}",
+            "value": "{participants}",
+            "inline": true
+          },
+          {
+            "name": "Transkrip",
+            "value": "```{transcript}```",
+            "inline": false
+          }
+        ]
+      }
+    ],
+    "components": []
+  }
+} 

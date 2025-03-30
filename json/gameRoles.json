@@ -1,0 +1,78 @@
+{
+  "Apex Legends": {
+    "roleId": "APEX_ROLE_ID",
+    "developer": "Respawn Entertainment, Panic Button Games, Respawn"
+  },
+  "Arena of Valor": {
+    "roleId": "ARENA_OF_VALOR_ROLE_ID",
+    "developer": "TiMi Studio Group, Tencent Games, Proxima Beta Pte. Limited"
+  },
+  "Crystal Realms": {
+    "roleId": "CRYSTAL_REALMS_ROLE_ID",
+    "developer": "Marcomeijer"
+  },
+  "Dragon Nest": {
+    "roleId": "DRAGON_NEST_ROLE_ID",
+    "developer": "Eyedentity Games"
+  },
+  "Genshin Impact": {
+    "roleId": "GENSHIN_IMPACT_ROLE_ID",
+    "developer": "Mihoyo, Shanghai Miha Touring Film Technology Co., Ltd."
+  },
+  "Gold & Glory": {
+    "roleId": "GOLD_GLORY_ROLE_ID",
+    "developer": "Space Wedgie, LLC"
+  },
+  "Grand Theft Auto V": {
+    "roleId": "GTA_ROLE_ID",
+    "developer": "Rockstar Games, Rockstar North"
+  },
+  "Growtopia": {
+    "roleId": "GROWTOPIA_ROLE_ID",
+    "developer": "Ubisoft Abu Dhabi, Ubisoft Pune"
+  },
+  "Honkai: Star Rail": {
+    "roleId": "HONKAI_ROLE_ID",
+    "developer": "Mihoyo, COGNOSPHERE PTE. LTD."
+  },
+  "Honor of Kings": {
+    "roleId": "HONOR_KINGS_ROLE_ID",
+    "developer": "TiMi Studio Group"
+  },
+  "Minecraft": {
+    "roleId": "MINECRAFT_ROLE_ID",
+    "developer": "Mojang, Other Ocean Interactive, Xbox Game Studios, 4J Studios, Other Ocean Group"
+  },
+  "Mobile Legends": {
+    "roleId": "MOBILE_LEGENDS_ROLE_ID",
+    "developer": "Moonton"
+  },
+  "Once Human": {
+    "roleId": "ONCE_HUMAN_ROLE_ID",
+    "developer": "NetEase, Exptional Global, Starry Studio"
+  },
+  "Pokémon Unite": {
+    "roleId": "POKEMON_UNITE_ROLE_ID",
+    "developer": "TiMi Studio Group"
+  },
+  "Roblox": {
+    "roleId": "ROBLOX_ROLE_ID",
+    "developer": "Roblox Corporation"
+  },
+  "ATS/ETS": {
+    "roleId": "TRUCK_SIM_ROLE_ID",
+    "developer": "SCS Software, Aidem Media, Atomic Fabrik, BoomHits, PixelMob"
+  },
+  "Valorant": {
+    "roleId": "VALORANT_ROLE_ID",
+    "developer": "Riot Games"
+  },
+  "Wuthering Waves": {
+    "roleId": "WUTHERING_WAVES_ROLE_ID",
+    "developer": "Kuro Games, Kuro Game Studio"
+  },
+  "Zenless Zone Zero": {
+    "roleId": "ZENLESS_ZONE_ZERO_ROLE_ID",
+    "developer": "Mihoyo, Shanghai Miha Touring Film Technology Co., Ltd."
+  }
+} 
